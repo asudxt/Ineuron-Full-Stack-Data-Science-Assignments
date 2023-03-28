@@ -1,1 +1,1 @@
-# pyt_assng_bscs_000
+# Ineuron-Full-Stack-Data-Science-Assignments
